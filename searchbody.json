@@ -1,0 +1,11 @@
+{
+  "criterias": [
+    {
+      "property": "ngsearchword",
+      "values": ["*"]
+    }
+  ],
+  "facettes": [
+    "{http://www.campuscontent.de/model/1.0}commonlicense_key"
+  ]
+}
